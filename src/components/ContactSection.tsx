@@ -48,8 +48,8 @@ const socialLinks: SocialLink[] = [
   },
   {
     name: 'Gmail',
-    url: 'mailto:varoussindumentaria@gmail.com',
-    label: 'Email',
+    url: 'mailto:varoussindumentaria@gmail.com?subject=Consulta%20desde%20la%20web',
+    label: 'varoussindumentaria@gmail.com',
     color: 'from-[#EA4335] to-[#FBBC04]',
     hoverBg: 'hover:shadow-[0_0_30px_rgba(234,67,53,0.4)]',
     icon: (
